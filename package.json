@@ -5,8 +5,14 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
+    "lodash": "^4.17.11",
+    "prop-types": "^15.6.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-live-clock": "^3.1.0",
+    "react-native": "^0.59.9",
+    "react-router-dom": "^5.0.1",
+    "react-router-native": "^5.0.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {

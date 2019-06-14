@@ -1,0 +1,19 @@
+*{
+    margin :0;
+    padding: 0;
+    background-image: url("../data/images/background.jpg");
+}
+/* .thisIsMyImage {
+    background-image: url("../data/images/background.jpg") no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover; 
+   animation: increase 60s linear 10ms infinite;
+   -webkit-transition: all 5.2s ease-in-out;
+   -moz-transition: all 5.2s ease-in-out;
+   -ms-transition: all 5.2s ease-in-out;
+   -o-transition: all 5.2s ease-in-out;
+   transition: all 5.2s ease-in-out;
+  
+} */
