@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    width: 100%;
+    height: 100vh;
+    background: rgb(233, 217, 217);
+}
